@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: blaine.young3553@gmail.com
 - ⚡ Fun fact: When not infront of a computer, I am spending time outside on a skateboard.
 -->
-- 🔭 I’m currently working on adding features to an instant messaging application.
+- 🔭 I’m currently working on adding features to an instant messaging application https://github.com/Blaine137/unanimity.
 - 🌱 I’m currently learning Server-side rendering with React, Node, and Express.
 - 👯 I’m looking to collaborate on building mordern websites.
 - 💬 Talk to me about code!
 - 📫 How to reach me: blaine.young3553@gmail.com
 - ⚡ Fun fact: When not infront of a computer, I am spending time outside on a skateboard.
+- 🎓 I have an Computer Programming Associates Degree and a Full-Stack Javascript bootcamp certificate!
