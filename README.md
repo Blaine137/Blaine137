@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on adding features to a instant messaging application https://github.com/Blaine137/unanimity.
+- 🔭 I’m currently adding features to a instant messaging application https://github.com/Blaine137/unanimity.
 - 🌱 I’m currently learning Server-side rendering with React, Node, and Express.
 - 👯 I’m looking to collaborate on building mordern websites.
 - 💬 Talk to me about code!
