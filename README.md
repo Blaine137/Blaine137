@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently adding features to a instant messaging application https://github.com/Blaine137/unanimity.
-- 🌱 I’m currently learning Server-side rendering.
+- 🌱 I’m currently extending my MERN stack knowledge.
 - 👯 I’m looking to find a team that will help expand my technology knowledge.
 - 💬 Talk to me about code!
 - 📫 How to reach me: blaine.young3553@gmail.com
