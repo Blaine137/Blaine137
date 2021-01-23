@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: blaine.young3553@gmail.com
 - ⚡ Fun fact: When not infront of a computer, I am spending time outside on a skateboard.
 -->
-- 🔭 I’m currently adding features to an instant messaging application and building a Facebook clone!
+- 🔭 I’m currently building a Facebook clone and adding features to an instant messaging application!
 - 👯 I’m looking to find a team that will help expand my knowledge of Web Development.
 - 💬 Talk to me about code!
 - 📫 How to reach me: blaine.young3553@gmail.com or https://www.linkedin.com/in/blaineyoung137/
