@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently building a Facebook clone and adding features to an instant messaging application!
 - 👯 I’m looking to find a team that will help expand my knowledge of Web Development.
-- 💬 Talk to me about code!
+- 💬 Talk to me about React!
 - 📫 How to reach me: blaine.young3553@gmail.com or https://www.linkedin.com/in/blaineyoung137/
 - ⚡ Fun fact: When away from a computer, I am spending time adventuring outside!
 - 🎓 I have an Computer Programming Associates Degree and a Full-Stack Javascript Development Certificate!
