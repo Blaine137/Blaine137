@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently adding features to a instant messaging application and building a Facebook clone.
+- 🔭 I’m currently adding features to a instant messaging application and a Food delivery service.
 - 🌱 I’m currently extending my MERN stack knowledge.
 - 👯 I’m looking to find a team that will help expand my technology knowledge.
 - 💬 Talk to me about code!
