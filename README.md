@@ -6,14 +6,13 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently adding features to a instant messaging application and a food delivery service.
-- 🌱 I’m currently extending my MERN stack knowledge.
-- 👯 I’m looking to find a team that will help expand my technology knowledge.
+- 🌱 I’m currently Learning AEM (Adobe Experience Manager.
+- :briefcase: I am a Associate Engineer (Back-End) at Hero Digital.
 - 💬 Talk to me about code!
 - 📫 How to reach me: blaine.young3553@gmail.com
 - ⚡ Fun fact: When not infront of a computer, I am spending time outside on a skateboard.
 -->
 - 🔭 I’m currently adding features to a instant messaging application and a food delivery service!
-- 👯 I’m looking to find a team that will help expand my knowledge of Web Development.
 - 💬 Talk to me about code and/or pokemon!
 - 📫 How to reach me: blaine.young3553@gmail.com or https://www.linkedin.com/in/blaineyoung137/
 - ⚡ Fun fact: When away from a computer, I am spending time adventuring outside!
