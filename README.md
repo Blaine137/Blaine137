@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: blaine.young3553@gmail.com
 - ⚡ Fun fact: When not infront of a computer, I am spending time outside on a skateboard.
 -->
-- - :briefcase: I am a Associate Engineer (Back-End) at Hero Digital.
+- :briefcase: I am a Associate Engineer (Back-End) at Hero Digital.
 - 💬 Talk to me about code and/or pokemon!
 - 📫 How to reach me: blaine.young3553@gmail.com or https://www.linkedin.com/in/blaineyoung137/
 - ⚡ Fun fact: When away from a computer, I am spending time adventuring outside!
