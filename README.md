@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: blaine.young3553@gmail.com
 - ⚡ Fun fact: When not infront of a computer, I am spending time outside on a skateboard.
 -->
-- :briefcase: I am a Associate Engineer (Back-End) at Hero Digital.
-- 💬 Talk to me about code and/or pokemon!
-- 📫 How to reach me: blaine.young3553@gmail.com or https://www.linkedin.com/in/blaineyoung137/
-- ⚡ Fun fact: When away from a computer, I am spending time adventuring outside!
+- :briefcase: I am a Back-End Developer (Java/AEM)
+- ✨ Adobe Certified Expert - Adobe Experience Manager Sites Developer
+- 🎓 2 years of professional Back-End Development experience
 - 🎓 I have an Computer Programming Associates Degree and a Full-Stack Javascript Development Certificate from Nucamp!
-- 💻 https://blaineyoung.tech
+- 📫 How to reach me: blaine.young3553@gmail.com or https://www.linkedin.com/in/blaineyoung137/
