@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: blaine.young3553@gmail.com
 - ⚡ Fun fact: When not infront of a computer, I am spending time outside on a skateboard.
 -->
-- :briefcase: I am a Back-End Developer (Java/AEM)
+- :briefcase: I am a Full-Stack Developer (Java/React/AEM)
 - ✨ Adobe Certified Expert - Adobe Experience Manager Sites Developer
-- 🎓 2 years of professional Back-End Development experience
+- 🎓 2 years of professional Full-Stack Development experience
 - 🎓 I have an Computer Programming Associates Degree and a Full-Stack Javascript Development Certificate from Nucamp!
 - 📫 How to reach me: blaine.young3553@gmail.com or https://www.linkedin.com/in/blaineyoung137/
