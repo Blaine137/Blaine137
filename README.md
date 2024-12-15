@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: blaine.young3553@gmail.com
 - ⚡ Fun fact: When not infront of a computer, I am spending time outside on a skateboard.
 -->
-- :briefcase: Full-Stack Software Engineer
+- :briefcase: Full-Stack Developer
 - ✨ Adobe Certified Expert - Adobe Experience Manager Sites Developer
-- 🎓 5 years of professional Full-Stack Development experience
+- 🎓 3 years of professional Full-Stack Development experience
 - 📫 How to reach me: blaine.young3553@gmail.com or https://www.linkedin.com/in/blaineyoung137/
