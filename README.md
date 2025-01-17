@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 - :briefcase: Full-Stack Developer
 - ✨ Adobe Certified Expert - Adobe Experience Manager Sites Developer
-- 🎓 3 years of professional Full-Stack Development experience
+- 🎓 4 years of professional Full-Stack Development experience
 - 📫 How to reach me: blaine.young3553@gmail.com or https://www.linkedin.com/in/blaineyoung137/
